@@ -1,9 +1,13 @@
 body {
-    margin: 60px auto;width: 70%;
+    margin: 60px auto;width: 70%; background-color: blanchedalmond;
 }
 
 h1 {
-    font-size: 3em;font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    font-size: 3em;font-family:'Helvetica', 'Arial', 'Sans-Serif'; color: #333;
+}
+
+h2 {
+    font-size: 2em;font-family:'Helvetica', 'Arial', 'Sans-Serif';color: #333;
 }
 
 p {
@@ -20,6 +24,10 @@ nav ul, footer ul {
 
 nav ul li, footer ul li {
     display: inline;margin-right: 20px;
+}
+
+img {
+    width: 250px;
 }
 
 a {
